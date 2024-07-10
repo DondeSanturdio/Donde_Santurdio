@@ -252,3 +252,7 @@
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
+
+h5 {
+  line-height: 2; /* This multiplies the current font size */
+}
